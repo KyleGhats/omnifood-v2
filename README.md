@@ -1,10 +1,9 @@
-<h2 align="center">OmniFood Website</h2>
+OmniFood Website
 ===================
-This webpage was built with Jonas Schmedtmann's latest course, "[Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/?couponCode=LETSLEARNNOW)". Reuploaded because it was uploaded originally in my Old github account which I lost access.
+This webpage was built with Jonas Schmedtmann's latest course, "<a href="https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/?couponCode=LETSLEARNNOW"><strong>Build Responsive Real-World Websites with HTML and CSS</strong></a>". Reuploaded because it was uploaded originally in my Old github account which I lost access.
 - - - -
 
 ## Page preview: ##
-
 
 <a href="https://kyleghats.github.io/omnifood-v2/"><strong>➥ Preview</strong></a>
  
