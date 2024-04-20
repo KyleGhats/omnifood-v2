@@ -5,7 +5,7 @@ This webpage was built with Jonas Schmedtmann's latest course, "<a href="https:/
 
 ## Page preview: ##
 
-<a href="https://kyleghats.github.io/omnifood-v2/"><strong>➥ Preview</strong></a>
+<a href="https://kyleghats.github.io/omnifood-v2/"><strong>➥ View Preview</strong></a>
  
 
 ## A. Tech Used: ## 
